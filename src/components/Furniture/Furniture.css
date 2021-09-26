@@ -1,0 +1,21 @@
+.furniture{
+    border: 1px solid rgb(24, 78, 104);
+    text-align: center;
+    border-radius: 15px;
+}
+
+.furniture img{
+    width: 50%;
+    height: 200px;
+}
+
+.furniture button{
+    font-size: medium;
+    background-color: rgb(7, 70, 129);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-weight: 800;
+}

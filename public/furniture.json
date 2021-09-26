@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Dinning-Table",
+        "color": "Brown",
+        "size": "Large",
+        "price": 89000,
+        "img": "https://www.godrejinterio.com/imagestore/B2C/TABCHR014/TABCHR014_01_1500x1500.png"
+    },
+    {
+        "name": "Divine 3 Seater Sofa",
+        "color": "White",
+        "size": "Medium",
+        "price": 15000,
+        "img": "https://images.squarespace-cdn.com/content/v1/5c251cc44cde7af5a41fd741/1547227565044-KSZFBATPV9KXI7XSIV1A/Horatio0026.jpg?format=1500w"
+    },
+    {
+        "name": "Office Waiting Room Single Sofa ",
+        "color": "Red",
+        "size": "Small",
+        "price": 12000,
+        "img": "https://www.neohoreca.com/wp-content/uploads/2021/02/Office-Waiting-Room-Single-Sofa-NEO-430100E.jpg"
+    },
+    {
+        "name": "Working-Table",
+        "color": "White",
+        "size": "Large",
+        "price": 25000,
+        "img": "https://ph-live-05.slatic.net/p/ed10163c3d2442315096d62cfcfc648f.jpg_2200x2200q80.jpg_.webp"
+    },
+    {
+        "name": "Ware Drobe",
+        "color": "Chocolate",
+        "size": "X-Large",
+        "price": 60000,
+        "img": "https://www.stylespafurniture.com/wp-content/uploads/2020/03/Cove_3_Door_Wardrobe_1.jpg"
+    },
+    {
+        "name": "Simple Bed Side Table",
+        "color": "Brown",
+        "size": "Small",
+        "price": 8000,
+        "img": "https://cdn.shopify.com/s/files/1/0036/4881/5177/products/Steens_Nola_White_And_Pine_2_Drawer_Bed_Side_Table.jpg?v=1623751546"
+    },
+    {
+        "name": "Bed Side Table",
+        "color": "Chocolate",
+        "size": "Small",
+        "price": 14000,
+        "img": "https://www.rjliving.com.au/assets/full/1029-29-1.jpg?20210309033855"
+    },
+    {
+        "name": "White Almirah",
+        "color": "White",
+        "size": "X-Large",
+        "price": 125000,
+        "img": "https://sc04.alicdn.com/kf/Hec834040d9d34217a2c0feb0a1702179J.jpg"
+    },
+    {
+        "name": "Fancy Dressing Table",
+        "color": "White",
+        "size": "Large",
+        "price": 35000,
+        "img": "http://bsg-i.nbxc.com/product/6d/ec/30/baa1f23eb0468a0fca339b2136.jpg@4e_500w_500h.src%7Cwatermark=2&text=ZXMuZHlib25ncy5jb20%3D&t=75&color=I0ZGRkZGRg%3D%3D&size=35&p=9%7C95Q.webp"
+    },
+    {
+        "name": "Shoe Rack",
+        "color": "Brown",
+        "size": "Medium",
+        "price": 15000,
+        "img": "https://otobi.com/wp-content/uploads/SRDA003WDBN027-600x600.jpeg"
+    },
+    {
+        "name": "Dinning Wagon",
+        "color": "Brown",
+        "size": "Large",
+        "price": 105000,
+        "img": "https://otobi.com/wp-content/uploads/DWDP016WDBN027.jpeg"
+    },
+    {
+        "name": "Kids Bed",
+        "color": "Blue",
+        "size": "Small",
+        "price": 24000,
+        "img": "https://i5.walmartimages.com/asr/75bb92b9-c489-4563-8402-653faac8861f_1.55509811c19bf81d22753980173597bf.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff"
+    }
+]

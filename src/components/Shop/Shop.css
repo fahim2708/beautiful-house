@@ -1,0 +1,21 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+.furniture-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    margin-left: 15px;
+}
+.cart-container{
+    margin-left: 15px;
+    text-align: center;
+    background-image: linear-gradient(rgb(121, 240, 224), rgb(27, 108, 161));
+    height: 100px;
+    border-radius: 10px;
+    padding-top: 5px;
+}
