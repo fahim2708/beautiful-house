@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Beautiful House
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Decor Your Apartment
+
+"Home is the starting place of love, hope and dreams."
 
 ### `npm start`
 
